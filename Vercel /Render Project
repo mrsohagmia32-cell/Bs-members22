@@ -1,0 +1,5 @@
+telegram-otp-bot/
+├── bot.py             # মূল পাইথন বট কোড (Webhook & Live Console Feature)
+├── requirements.txt   # পাইথন ডিপেন্ডেন্সি ফাইল
+├── vercel.json        # ভার্সেল রাউটিং ও ডেপ্লয়মেন্ট কনফিগারেশন
+└── Procfile           # রেন্ডার (Render Worker) কনফিগারেশন
